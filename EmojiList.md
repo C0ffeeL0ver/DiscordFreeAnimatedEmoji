@@ -5,5 +5,3 @@
 ```
 https://cdn.discordapp.com/emojis/781979216878633003.gif
 ```
-
----
