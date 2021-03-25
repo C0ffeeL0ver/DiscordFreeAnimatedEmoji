@@ -1,6 +1,6 @@
 # Free Animated Emoji
 
-## Credits:
+### Credits:
 * Mia Barbosa#7700 
 
 
