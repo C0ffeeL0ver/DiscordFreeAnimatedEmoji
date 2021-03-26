@@ -80,14 +80,7 @@ https://cdn.discordapp.com/emojis/815562226881921065.gif
 https://cdn.discordapp.com/emojis/754417932456427540.gif
 ```
 
-<br>
-<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/782855028611743825.gif">
 
----
-
-```
-https://cdn.discordapp.com/emojis/782855028611743825.gif
-```
 
 <br>
 <img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/805584075632672789.gif">
@@ -107,6 +100,14 @@ https://cdn.discordapp.com/emojis/805584075632672789.gif
 https://cdn.discordapp.com/emojis/782855012765925376.gif
 ```
 
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/782855028611743825.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/782855028611743825.gif
+```
 
 <br>
 <img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/771306767471738910.gif">
