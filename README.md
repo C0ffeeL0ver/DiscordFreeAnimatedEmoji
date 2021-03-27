@@ -1879,3 +1879,12 @@ https://cdn.discordapp.com/emojis/667546574133395462.gif
 ```
 https://cdn.discordapp.com/emojis/716115734798925855.gif
 ```
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/716132126377902150.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/716132126377902150.gif
+```
