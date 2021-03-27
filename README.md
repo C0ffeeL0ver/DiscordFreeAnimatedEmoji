@@ -1740,3 +1740,142 @@ https://cdn.discordapp.com/emojis/667024360388952114.gif
 ```
 https://cdn.discordapp.com/emojis/667021107185975337.gif
 ```
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/753988363018829958.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/753988363018829958.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/753471239959347235.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/753471239959347235.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/753988360271298730.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/753988360271298730.gif
+```
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/745086877387980840.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/745086877387980840.gif
+```
+
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/806977717278605372.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/806977717278605372.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/777307403120803891.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/777307403120803891.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/777307413438660628.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/777307413438660628.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/667021111569154068.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/667021111569154068.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/656868766701060107.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/656868766701060107.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/779079169262616597.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/779079169262616597.gif
+```
+
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/779079170473984101.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/779079170473984101.gif
+```
+
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/779079170121531413.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/779079170121531413.gif
+```
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/667546574133395462.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/667546574133395462.gif
+```
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/716115734798925855.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/716115734798925855.gif
+```
