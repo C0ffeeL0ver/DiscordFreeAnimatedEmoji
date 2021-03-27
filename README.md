@@ -1703,3 +1703,20 @@ https://cdn.discordapp.com/emojis/787446592277184544.gif
 https://cdn.discordapp.com/emojis/788891471917875240.gif
 ```
 
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/753988360665694298.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/753988360665694298.gif
+```
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/667021106879660042.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/667021106879660042.gif
+```
