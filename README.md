@@ -3,7 +3,9 @@
 ### Credits:
 
 #0366d6 Mia Barbosa#7700 
-
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
 
 
 <img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/781979216878633003.gif">
