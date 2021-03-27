@@ -1888,3 +1888,105 @@ https://cdn.discordapp.com/emojis/716115734798925855.gif
 ```
 https://cdn.discordapp.com/emojis/716132126377902150.gif
 ```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/617937420091916318.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/617937420091916318.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/722953159613612073.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/722953159613612073.gif
+```
+
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/714271187252936866.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/714271187252936866.gif
+```
+
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/714961228547489904.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/714961228547489904.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/714961646489043005.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/714961646489043005.gif
+```
+
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/714126144495943680.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/714126144495943680.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/721523658274766868.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/721523658274766868.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/747578155719458817.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/747578155719458817.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/770856289399078913.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/770856289399078913.gif
+```
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/770856321872166943.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/770856321872166943.gif
+```
