@@ -3,8 +3,10 @@
 ### Credits:
 
 #0366d6 Mia Barbosa#7700 
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
+
+---
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
 
 
