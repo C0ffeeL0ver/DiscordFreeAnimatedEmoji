@@ -2156,6 +2156,15 @@ https://cdn.discordapp.com/emojis/743317485742325840.gif
 
 
 
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/747875049226240070.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/747875049226240070.gif
+```
+
 
 
 
