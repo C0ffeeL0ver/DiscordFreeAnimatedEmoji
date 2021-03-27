@@ -2166,7 +2166,55 @@ https://cdn.discordapp.com/emojis/747875049226240070.gif
 ```
 
 
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/779079169887698955.gif">
 
+---
+
+```
+https://cdn.discordapp.com/emojis/779079169887698955.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/804412029586112583.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/804412029586112583.gif
+```
+
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/667021108016578560.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/667021108016578560.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/667021106972065793.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/667021106972065793.gif
+```
+
+
+<br>
+<img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/667024360007270439.gif">
+
+---
+
+```
+https://cdn.discordapp.com/emojis/667024360007270439.gif
+```
 
 
 
