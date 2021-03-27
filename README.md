@@ -8,7 +8,7 @@
 <div class="text-purple">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
-
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 <img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/781979216878633003.gif">
 
