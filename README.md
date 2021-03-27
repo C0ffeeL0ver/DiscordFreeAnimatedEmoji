@@ -1,7 +1,7 @@
 # Free Animated Emoji
 
 ### Credits:
-* <a style="color:red">Mia Barbosa#7700 </a>
+<a style="color:red">Mia Barbosa#7700 </a>
 
 
 <img align="right" width="100" height="100" src="https://cdn.discordapp.com/emojis/781979216878633003.gif">
