@@ -2,7 +2,7 @@
 
 ### Credits:
 
-- ![#f03c15] Mia Barbosa#7700 
+#0366d6 Mia Barbosa#7700 
 
 
 
